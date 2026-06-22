@@ -1,5 +1,8 @@
 # predator-sense-317-55-for-linux
-Linux PredatorSense replacement with fan control, RGB keyboard, battery management and system monitoring.
+
+The application created due to the lack of a working Predator Sense substitute on this model does not make it clear that it will work on other versions of Predator. The only purpose of this application was to make my personal laptop stop making noises like a jet.
+
+If you encounter a problem, please write in the issue tab. I'll try to help, but I don't promise that it will work 100% :P
 
 ## Dependencies
 
