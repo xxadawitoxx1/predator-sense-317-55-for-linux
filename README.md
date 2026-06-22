@@ -21,13 +21,14 @@ Linux PredatorSense replacement with fan control, RGB keyboard, battery manageme
 
 ### Hardware / Kernel Requirements
 
+- Acer Predator laptop
 - acer-wmi PredatorSense interface
-- linuwu_sense (RGB keyboard support)
-- platform_profile support
+- linuwu_sense kernel module (RGB support)
+- ACPI platform_profile support
 - Intel P-State driver
 - NVIDIA GPU (optional)
 
-### Install (Arch / Manjaro)
+### Installation (Arch / Manjaro)
 
 ```bash
 sudo pacman -S gtk3 python-gobject python-cairo python-psutil polkit nvidia-utils xclip
